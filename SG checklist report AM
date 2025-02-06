@@ -1,4 +1,4 @@
-V_BR+SQ_PARAMETER – Possibly related to business rules and parameters for SQL queries.
+V_BR_SQ_PARAMETER – Possibly related to business rules and parameters for SQL queries.
 V_CARRIED_BY_TABLE – Might store information about which entity or person carried out specific actions.
 V_CHECKLIST_ALL_COLUMNS+VALUES_SG – Likely contains a checklist with all columns and associated values (possibly for Singapore "SG").
 V_CHECKLIST_VALUE_TRANSACTIONS – Could store checklist transactions or changes in values.
